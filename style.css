@@ -227,10 +227,11 @@ html, body {
     opacity: .6;
 }
 
-#subscribe h3 {
+#subscribe a{
     text-transform: uppercase;
     font-size: 14px;
     margin-top: 10px;
+    color: #fff;
 }
 
 #footer {
